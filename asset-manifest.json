@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prince737/medical-store/static/css/main.e6c13ad2.css",
+    "main.js": "/prince737/medical-store/static/js/main.852d6abc.js",
+    "index.html": "/prince737/medical-store/index.html",
+    "main.e6c13ad2.css.map": "/prince737/medical-store/static/css/main.e6c13ad2.css.map",
+    "main.852d6abc.js.map": "/prince737/medical-store/static/js/main.852d6abc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.852d6abc.js"
+  ]
+}
